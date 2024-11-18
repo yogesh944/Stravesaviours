@@ -148,7 +148,7 @@
   .cover{
     width: 100%;
     height: 400px;
-    background:url('img/image.jpg')no-repeat;
+    background:url('image.jpg')no-repeat;
     background-size: cover;
     display: grid;
     place-items:center;
